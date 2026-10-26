@@ -83,3 +83,8 @@ Definition: A confusion matrix is a table that visualizes the performance of a c
 
 
 
+
+## Contributors
+
+- [Basavadeepthi H M](https://github.com/Never-DEE-Less)
+- [Shiva Teja Pecheti](https://github.com/shivatejapecheti)
